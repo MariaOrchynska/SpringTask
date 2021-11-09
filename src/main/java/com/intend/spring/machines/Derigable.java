@@ -2,7 +2,9 @@ package com.intend.spring.machines;
 
 import com.intend.spring.interfaces.Definer;
 import com.intend.spring.interfaces.HighlighterAnn;
+import org.springframework.stereotype.Component;
 
+@Component
 public class Derigable {
     public String nameOf() {
         return "Derigable";

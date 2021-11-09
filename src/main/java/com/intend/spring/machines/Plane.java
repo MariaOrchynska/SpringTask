@@ -4,7 +4,9 @@ import com.intend.spring.interfaces.Definer;
 import com.intend.spring.interfaces.Highlighter;
 import com.intend.spring.interfaces.HighlighterAnn;
 import com.intend.spring.interfaces.MachInterface;
+import org.springframework.stereotype.Component;
 
+@Component
 public class Plane implements Highlighter, MachInterface {
 
     public String nameOf() {

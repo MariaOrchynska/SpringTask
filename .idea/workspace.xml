@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="965240ba-da39-4d24-a348-6153a055039f" name="Changes" comment="" />
+    <list default="true" id="965240ba-da39-4d24-a348-6153a055039f" name="Changes" comment="To master">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/Balloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/Balloon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/Derigable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/Derigable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/Helicopter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/MotoDeltaPlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/MotoDeltaPlanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/Planner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/Planner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/personal/Checkupper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/personal/Checkupper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/personal/Refueler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/personal/Refueler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/personal/Repairer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/personal/Repairer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +30,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="20ePlERBORyNaw7Yz94qpe7atdx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -71,11 +86,36 @@
       <workItem from="1636403781189" duration="114000" />
       <workItem from="1636404310648" duration="1041000" />
       <workItem from="1636405393582" duration="1017000" />
-      <workItem from="1636406479056" duration="994000" />
+      <workItem from="1636406479056" duration="2144000" />
+      <workItem from="1636444375028" duration="692000" />
     </task>
+    <task id="LOCAL-00001" summary="To master">
+      <created>1636407500613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636407500613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="To master" />
+    <option name="LAST_COMMIT_MESSAGE" value="To master" />
   </component>
 </project>
