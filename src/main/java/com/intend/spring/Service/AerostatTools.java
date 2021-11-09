@@ -8,7 +8,7 @@ public class AerostatTools {
     public void fly(){
         ApplicationContext context = new AnnotationConfigApplicationContext("com.intend.spring");
         System.out.println("Checking  Aerostat ");
-        Aerostart aerostart=(Aerostart) context.getBean("aerostat");
+        Aerostart aerostart=(Aerostart) context.getBean("aerostart");
         aerostart.fuelConclusion();
         System.out.println(aerostart.getStatus());
     }

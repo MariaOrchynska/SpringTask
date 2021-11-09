@@ -8,13 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/AerostatTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/AerostatTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/BalloonTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/BalloonTools.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/DerigableTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/DerigableTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/HelicopterTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/HelicopterTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/MotoDeltaPlannerTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/MotoDeltaPlannerTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/PlaneTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/PlaneTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/PlannerTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/Service/PlannerTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/Aerostart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intend/spring/machines/Aerostart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +88,7 @@
       <workItem from="1636404310648" duration="1041000" />
       <workItem from="1636405393582" duration="1017000" />
       <workItem from="1636406479056" duration="2144000" />
-      <workItem from="1636444375028" duration="6647000" />
+      <workItem from="1636444375028" duration="7984000" />
     </task>
     <task id="LOCAL-00001" summary="To master">
       <created>1636407500613</created>
@@ -117,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636453164653</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="To master">
+      <created>1636455252545</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636455252545</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

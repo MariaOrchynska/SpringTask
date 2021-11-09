@@ -16,8 +16,8 @@ public class Main {
         aerostatTools.fly();
         BalloonTools balloonTools = new BalloonTools();
         balloonTools.fly();
-//        DerigableTools derigableTools = new DerigableTools();
-//        derigableTools.fly();
+        DerigableTools derigableTools = new DerigableTools();
+        derigableTools.fly();
         HelicopterTools helicopterTools= new HelicopterTools();
         helicopterTools.fly();
         MotoDeltaPlannerTools motoDeltaPlannerTools= new MotoDeltaPlannerTools();

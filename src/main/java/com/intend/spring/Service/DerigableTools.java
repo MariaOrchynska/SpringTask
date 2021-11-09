@@ -9,7 +9,7 @@ public class DerigableTools {
     public void fly(){
         ApplicationContext context = new AnnotationConfigApplicationContext("com.intend.spring");
         System.out.println("Checking Dirigible ");
-        Derigable derigable=(Derigable) context.getBean("dirigible");
+        Derigable derigable=(Derigable) context.getBean("derigable");
         derigable.fuelConclusion();
         System.out.println(derigable.getStatus());
     }
