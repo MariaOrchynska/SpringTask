@@ -19,7 +19,6 @@ public class Aerostart implements Highlighter, MachInterface {
     }
 
     @HighlighterAnn
-
     public void fuelConclusion() {
         System.out.println("Filled with petrol " + nameOf());
     }
